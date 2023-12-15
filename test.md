@@ -1,1 +1,1 @@
-gh command test
+gh create pr test
