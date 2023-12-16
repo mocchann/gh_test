@@ -1,1 +1,1 @@
-gh create pr test
+github pull request create test
